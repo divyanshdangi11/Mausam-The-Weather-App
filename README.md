@@ -10,8 +10,7 @@ Sleek, User-Friendly Interface: Designed to be as intuitive as it is informative
 Responsive Design: Works seamlessly on any device, be it your laptop, tablet, or mobile—because weather knows no bounds, and neither should you!
 
 📸 Screenshots
-
-
+<img src="mausam.png" alt="Mausam App Screenshot" width="600"/>
 
 The sleek homepage of Mausam displaying current weather for your location.
 
